@@ -1,0 +1,12 @@
+* text=auto
+*.ftl text
+*.sql text
+*.js text
+*.xml text
+*.tml text
+*.properties text
+*.sh text
+*.css text
+*.scss text
+*.gradle text
+*.java text filter=treatspaces
